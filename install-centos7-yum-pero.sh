@@ -1,3 +1,10 @@
+#
+#  install-centos7-yum-pero.sh
+#
+#  Created by zhaodg on 15-04-26.
+#  Copyright (c) 2014年 zhaodg. All rights reserved.
+#
+
 #!/bin/bash
 
 #rm -rf /etc/yum.repos.d/epel.repo
